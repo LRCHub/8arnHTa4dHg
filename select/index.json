@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "キャスティングミス",
+  "base_artist": "ウォルピスカーター",
+  "createdAt": "2026-02-21T12:58:09.407029Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "キャスティングミス",
+      "artist": "Wolpis Carter",
+      "has_synced": true,
+      "path": "select/01_キャスティングミス_Wolpis_Carter.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "キャスティングミス",
+      "artist": "ユリイ・カノン",
+      "has_synced": false,
+      "path": "select/02_キャスティングミス_ユリイ・カノン.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "キャスティングミス",
+      "artist": "ウォルピスカーター",
+      "has_synced": true,
+      "path": "select/03_キャスティングミス_ウォルピスカーター.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "キャスティングミス",
+      "artist": "ウォルピスカーター",
+      "has_synced": false,
+      "path": "select/pl_01_キャスティングミス_ウォルピスカーター.txt"
+    }
+  ]
+}
